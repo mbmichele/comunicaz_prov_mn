@@ -5,7 +5,21 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 05 Oct 2026 16:01:13 +0200</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 18:01:24 +0200</lastBuildDate>
+<item>
+<title>Mantova sull'acqua</title>
+<link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1566&amp;GTEMPLATE=events.jsp</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1566&amp;GTEMPLATE=events.jsp</guid>
+<pubDate>Sat, 10 Oct 2026 00:00:00 +0200</pubDate>
+<description>Fino al 11.10.2026. Palazzo del Plenipotenziario La cittŕ vista dagli studenti di sette stati europei</description>
+</item>
+<item>
+<title>Mantova sull'acqua</title>
+<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24127</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24127</guid>
+<pubDate>Mon, 05 Oct 2026 16:30:00 +0200</pubDate>
+<description>La cittŕ vista dagli studenti di sette stati europei</description>
+</item>
 <item>
 <title>IL PRESIDENTE DELLA PROVINCIA BOTTANI AL SALONE INTERNAZIONALE DEL FLOROVIVAISMO E DEL PAESAGGIO DI PARMA</title>
 <link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24126&amp;COL0003=1&amp;COL0003=2</link>
@@ -259,13 +273,6 @@
 <description>Presentazione domande entro mercoledì 2 settembre ore 12</description>
 </item>
 <item>
-<title>RIGENERAZIONE CANALI, PRONTO IL BANDO PER LA CONCESSIONE DI CONTRIBUTI AI COMUNI</title>
-<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24065&amp;COL0003=1&amp;COL0003=2</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24065&amp;COL0003=1&amp;COL0003=2</guid>
-<pubDate>Wed, 12 Aug 2026 14:00:00 +0200</pubDate>
-<description>Seconda edizione dell’iniziativa della Provincia. A disposizione 300 mila euro</description>
-</item>
-<item>
 <title>Programma triennale degli acquisti di forniture e servizi 2027 - 2029</title>
 <link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3934&amp;areaNews=11</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3934&amp;areaNews=11</guid>
@@ -418,13 +425,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3911&amp;areaNews=11</guid>
 <pubDate>Fri, 12 Jun 2026 12:23:09 +0100</pubDate>
 <description>Percorsi ed esposizioni permanenti nei territori della Grande Battaglia</description>
-</item>
-<item>
-<title>Ponte di Torre d'Oglio, stop al transito sabato 13 giugno 2026</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3910&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3910&amp;areaNews=11</guid>
-<pubDate>Wed, 10 Jun 2026 16:44:28 +0100</pubDate>
-<description>Dalle ore 6 alle 18</description>
 </item>
 </channel>
 </rss>
