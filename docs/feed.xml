@@ -5,13 +5,20 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 08 Oct 2026 12:01:22 +0200</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 13:50:21 +0200</lastBuildDate>
 <item>
 <title>Mantova sull'acqua</title>
 <link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1566&amp;GTEMPLATE=events.jsp</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1566&amp;GTEMPLATE=events.jsp</guid>
 <pubDate>Sat, 10 Oct 2026 00:00:00 +0200</pubDate>
 <description>Fino al 11.10.2026. Palazzo del Plenipotenziario La cittŕ vista dagli studenti di sette stati europei</description>
+</item>
+<item>
+<title>I precursori della violenza, ad Asola un incontro per riconoscere i segnali e prevenire i comportamenti violenti</title>
+<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24129&amp;COL0003=1&amp;COL0003=2</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24129&amp;COL0003=1&amp;COL0003=2</guid>
+<pubDate>Thu, 08 Oct 2026 13:33:00 +0200</pubDate>
+<description>Lunedě 12 ottobre alle 18 all’Auditorium dell’Istituto Comprensivo un appuntamento dedicato al ruolo di genitori e scuola</description>
 </item>
 <item>
 <title>Consiglio Provinciale martedì 13 ottobre 2026</title>
@@ -264,13 +271,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3936&amp;areaNews=11</guid>
 <pubDate>Fri, 28 Aug 2026 13:16:20 +0100</pubDate>
 <description>Dal 17 agosto 2026 e sino a fine lavori</description>
-</item>
-<item>
-<title>Riorganizzazazione coordinata degli orari scolastici, prono il protocollo che ora dovrŕ essere sottoscritto dai singoli istituti</title>
-<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24075&amp;COL0003=1&amp;COL0003=2</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24075&amp;COL0003=1&amp;COL0003=2</guid>
-<pubDate>Tue, 25 Aug 2026 15:40:00 +0200</pubDate>
-<description>Firmato oggi dal Presidente della Provincia il decreto che approva la versione finale del documento</description>
 </item>
 <item>
 <title>Avviso pubblico per acquisizione di candidature relative all'incarico di direttore dell'Azienda Speciale Ufficio d'Ambito della Provincia di Mantova</title>
