@@ -5,13 +5,20 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 08 Oct 2026 14:01:20 +0200</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 16:01:19 +0200</lastBuildDate>
 <item>
 <title>Mantova sull'acqua</title>
 <link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1566&amp;GTEMPLATE=events.jsp</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1566&amp;GTEMPLATE=events.jsp</guid>
 <pubDate>Sat, 10 Oct 2026 00:00:00 +0200</pubDate>
 <description>Fino al 11.10.2026. Palazzo del Plenipotenziario La cittŕ vista dagli studenti di sette stati europei</description>
+</item>
+<item>
+<title>Martedì 13 ottobre "simulazione" del collasso di una grande diga</title>
+<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3949&amp;areaNews=11</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3949&amp;areaNews=11</guid>
+<pubDate>Thu, 08 Oct 2026 15:13:17 +0100</pubDate>
+<description>Esercitazione della Protezione Civile con test IT - alert</description>
 </item>
 <item>
 <title>I precursori della violenza, ad Asola un incontro per riconoscere i segnali e prevenire i comportamenti violenti</title>
@@ -418,13 +425,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3913&amp;areaNews=11</guid>
 <pubDate>Thu, 18 Jun 2026 16:39:26 +0100</pubDate>
 <description>Dal 22 al 26 giugno 2026</description>
-</item>
-<item>
-<title>Estinto l'incendio sprigionatosi oggi in un magazzino di stoccaggio di Versalis a Mantova</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3912&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3912&amp;areaNews=11</guid>
-<pubDate>Fri, 12 Jun 2026 17:59:31 +0100</pubDate>
-<description>Emergenza rientrata: ordinanza del Sindaco in vigore sino alla mezzanotte</description>
 </item>
 </channel>
 </rss>
