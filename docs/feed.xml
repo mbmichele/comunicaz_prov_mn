@@ -5,13 +5,20 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 08 Oct 2026 10:01:19 +0200</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 12:01:22 +0200</lastBuildDate>
 <item>
 <title>Mantova sull'acqua</title>
 <link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1566&amp;GTEMPLATE=events.jsp</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1566&amp;GTEMPLATE=events.jsp</guid>
 <pubDate>Sat, 10 Oct 2026 00:00:00 +0200</pubDate>
 <description>Fino al 11.10.2026. Palazzo del Plenipotenziario La cittŕ vista dagli studenti di sette stati europei</description>
+</item>
+<item>
+<title>Consiglio Provinciale martedì 13 ottobre 2026</title>
+<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3948&amp;areaNews=11</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3948&amp;areaNews=11</guid>
+<pubDate>Thu, 08 Oct 2026 10:51:16 +0100</pubDate>
+<description>Ore 19, Palazzo di Bagno</description>
 </item>
 <item>
 <title>Mantova sull'acqua</title>
@@ -418,13 +425,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3912&amp;areaNews=11</guid>
 <pubDate>Fri, 12 Jun 2026 17:59:31 +0100</pubDate>
 <description>Emergenza rientrata: ordinanza del Sindaco in vigore sino alla mezzanotte</description>
-</item>
-<item>
-<title>VISITARE IL 1859: STORIE, TRACCE E MEMORIE DELLA BATTAGLIA DEL 24 GIUGNO 1859</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3911&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3911&amp;areaNews=11</guid>
-<pubDate>Fri, 12 Jun 2026 12:23:09 +0100</pubDate>
-<description>Percorsi ed esposizioni permanenti nei territori della Grande Battaglia</description>
 </item>
 </channel>
 </rss>
