@@ -5,7 +5,7 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 12 Oct 2026 12:01:23 +0200</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 12:21:54 +0200</lastBuildDate>
 <item>
 <title>Mantova sull'acqua, la cittŕ vista dagli studenti di sette stati europei</title>
 <link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24134&amp;COL0003=1&amp;COL0003=3</link>
@@ -19,6 +19,13 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1566&amp;GTEMPLATE=events.jsp</guid>
 <pubDate>Sat, 10 Oct 2026 00:00:00 +0200</pubDate>
 <description>Fino al 11.10.2026. Palazzo del Plenipotenziario La cittŕ vista dagli studenti di sette stati europei</description>
+</item>
+<item>
+<title>Alla Casa del Mantegna premiati gli studenti dei licei artistici Giulio Romano di Mantova e Alessandro Dal Prato di Guidizzolo</title>
+<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24135&amp;COL0003=1</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24135&amp;COL0003=1</guid>
+<pubDate>Fri, 09 Oct 2026 14:15:00 +0200</pubDate>
+<description>Con i loro disegni avevano partecipato alla mostra "Nuvolari genio della velocitŕ"</description>
 </item>
 <item>
 <title>Promozione salute nei luoghi di lavoro, firmato il protocollo tra Provincia e Ats Val Padana</title>
@@ -222,13 +229,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3943&amp;areaNews=11</guid>
 <pubDate>Tue, 15 Sep 2026 15:09:11 +0100</pubDate>
 <description>Tra le iniziative anche una mostra</description>
-</item>
-<item>
-<title>SETTIMANA CORTA, INCONTRO TR A IL PRESIDENTE DELLA PROVINCIA E LA CONSULTA</title>
-<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24091&amp;COL0003=1&amp;COL0003=2</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24091&amp;COL0003=1&amp;COL0003=2</guid>
-<pubDate>Mon, 07 Sep 2026 17:51:00 +0200</pubDate>
-<description>Il problema restano i trasporti</description>
 </item>
 <item>
 <title>Quingentole - - San Rocco, interrotto tratto della Sp 72 dal 7 all'11 settembre 2026</title>
