@@ -5,7 +5,14 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 12 Oct 2026 10:01:21 +0200</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 12:01:23 +0200</lastBuildDate>
+<item>
+<title>Mantova sull'acqua, la cittŕ vista dagli studenti di sette stati europei</title>
+<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24134&amp;COL0003=1&amp;COL0003=3</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24134&amp;COL0003=1&amp;COL0003=3</guid>
+<pubDate>Mon, 12 Oct 2026 11:43:00 +0200</pubDate>
+<description></description>
+</item>
 <item>
 <title>Mantova sull'acqua</title>
 <link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1566&amp;GTEMPLATE=events.jsp</link>
@@ -243,13 +250,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3940&amp;areaNews=11</guid>
 <pubDate>Fri, 04 Sep 2026 10:13:30 +0100</pubDate>
 <description>Domande entro il 10 novembre 2026</description>
-</item>
-<item>
-<title>NUOVI ORARI SCOLASTICI SU CINQUE GIORNI, TRE ANNI DI SPERIMENTAZIONE</title>
-<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24083&amp;COL0003=1&amp;COL0003=2</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24083&amp;COL0003=1&amp;COL0003=2</guid>
-<pubDate>Thu, 03 Sep 2026 16:59:00 +0200</pubDate>
-<description></description>
 </item>
 <item>
 <title>Alberti caduti, interrotta la ciclovia Sole tra Porto e Marmirolo</title>
