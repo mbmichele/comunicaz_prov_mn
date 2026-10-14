@@ -5,20 +5,20 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 14 Oct 2026 12:01:22 +0200</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 14:01:28 +0200</lastBuildDate>
+<item>
+<title>Demolizione del vecchio ponte in alveo a San Benedetto, dal 19 al 23 ottobre stop al transito su quello nuovo</title>
+<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3951&amp;areaNews=11</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3951&amp;areaNews=11</guid>
+<pubDate>Wed, 14 Oct 2026 13:10:28 +0100</pubDate>
+<description></description>
+</item>
 <item>
 <title>Riparazione di un giunto, interrotto tratto della tangenziale nord tra Mantova e Porto</title>
 <link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3950&amp;areaNews=11</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3950&amp;areaNews=11</guid>
 <pubDate>Wed, 14 Oct 2026 11:33:03 +0100</pubDate>
 <description>Da venerdì 23 a domenica 25 ottobre 2026</description>
-</item>
-<item>
-<title>AGGIORNAMENTO METODO TARIFFARIO IDRICO PER IL GESTORE AqA</title>
-<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24143&amp;COL0003=1&amp;COL0003=2</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24143&amp;COL0003=1&amp;COL0003=2</guid>
-<pubDate>Tue, 13 Oct 2026 21:06:00 +0200</pubDate>
-<description></description>
 </item>
 <item>
 <title>AGGIORNAMENTO METODO TARIFFARIO IDRICO PER IL GESTORE AqA</title>
@@ -207,6 +207,13 @@
 <link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24110&amp;COL0003=1&amp;COL0003=2</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24110&amp;COL0003=1&amp;COL0003=2</guid>
 <pubDate>Wed, 23 Sep 2026 15:30:00 +0200</pubDate>
+<description></description>
+</item>
+<item>
+<title>I PRECURSORI DELLA VIOLENZA, CONFERENZA RINVIATA A NOVEMBRE PER LA SCOMPARSA DI SIMONA BOSELLI</title>
+<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24109&amp;COL0003=1&amp;COL0003=2&amp;COL0003=3</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24109&amp;COL0003=1&amp;COL0003=2&amp;COL0003=3</guid>
+<pubDate>Wed, 23 Sep 2026 15:20:00 +0200</pubDate>
 <description></description>
 </item>
 <item>
@@ -418,13 +425,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3915&amp;areaNews=11</guid>
 <pubDate>Tue, 23 Jun 2026 10:34:05 +0100</pubDate>
 <description>Contributi ai Comuni da parte di Regione Lombardia</description>
-</item>
-<item>
-<title>Interrotta la Borgofranco - Magnacavallo dal 29 giugno al 3 luglio 2026</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3914&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3914&amp;areaNews=11</guid>
-<pubDate>Mon, 22 Jun 2026 18:28:26 +0100</pubDate>
-<description>Per rifacimento pavimentazione stradale</description>
 </item>
 </channel>
 </rss>
