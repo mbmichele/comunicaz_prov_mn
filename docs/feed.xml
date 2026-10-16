@@ -5,13 +5,20 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 16 Oct 2026 14:01:24 +0200</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 16:01:24 +0200</lastBuildDate>
 <item>
 <title>Notte dei musei, Casa del Mantegna aperta sino alle ore 23</title>
 <link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1568&amp;GTEMPLATE=events.jsp</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1568&amp;GTEMPLATE=events.jsp</guid>
 <pubDate>Sat, 17 Oct 2026 00:00:00 +0200</pubDate>
 <description>Convegno Casa del Mantegna Alle 20.30 “Il mito della velocitŕ” con Pedrazzoli e Sartori</description>
+</item>
+<item>
+<title>Nuovi asfalti in un tratto della Goitese, strada interrotta per tre notti</title>
+<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3953&amp;areaNews=11</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3953&amp;areaNews=11</guid>
+<pubDate>Fri, 16 Oct 2026 14:41:32 +0100</pubDate>
+<description>Traffico deviato sul vecchio tracciato della ex SS 236</description>
 </item>
 <item>
 <title>Notte dei musei, Casa del Mantegna aperta sino alle ore 23 sabato 17 ottobre 2026</title>
@@ -418,13 +425,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3918&amp;areaNews=11</guid>
 <pubDate>Thu, 25 Jun 2026 15:37:04 +0100</pubDate>
 <description>Da lunedì 29 giugno a giovedì 2 luglio 2026</description>
-</item>
-<item>
-<title>Consiglio Provinciale giovedì 25 giugno 2026</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3917&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3917&amp;areaNews=11</guid>
-<pubDate>Tue, 23 Jun 2026 16:29:39 +0100</pubDate>
-<description>Ore 18, Palazzo di Bagno</description>
 </item>
 </channel>
 </rss>
