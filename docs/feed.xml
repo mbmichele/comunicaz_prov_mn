@@ -5,7 +5,14 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 23 Oct 2026 12:01:20 +0200</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 14:01:22 +0200</lastBuildDate>
+<item>
+<title>Adozione schema Programma Triennale dei Lavori Pubblici 2027  2029 e approvazione prospetto interventi prioritari per inserimento nei prossimi programmi triennali dei lavori pubblici</title>
+<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3956&amp;areaNews=11</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3956&amp;areaNews=11</guid>
+<pubDate>Fri, 23 Oct 2026 11:58:35 +0100</pubDate>
+<description>Osservazioni entro il 23 novembre 2026</description>
+</item>
 <item>
 <title>Riaperto al traffico il ponte di San Benedetto</title>
 <link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3955&amp;areaNews=11</link>
@@ -418,13 +425,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3921&amp;areaNews=11</guid>
 <pubDate>Tue, 30 Jun 2026 11:33:00 +0100</pubDate>
 <description>Consultabile il rapporto preliminare: osservazioni entro il 30 luglio 2026</description>
-</item>
-<item>
-<title>Cultura nei piccoli Comuni, iniziativa del Ministero</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3920&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3920&amp;areaNews=11</guid>
-<pubDate>Tue, 30 Jun 2026 10:44:51 +0100</pubDate>
-<description>Domande entro il 31 agosto 2026 ore 12.00</description>
 </item>
 </channel>
 </rss>
