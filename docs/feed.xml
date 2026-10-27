@@ -5,7 +5,14 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 27 Oct 2026 16:04:41 +0100</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 18:01:28 +0100</lastBuildDate>
+<item>
+<title>Stop al transito sul canale Portazzolo tra San Rocco di Quiistello e Schivenoglia</title>
+<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3957&amp;areaNews=11</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3957&amp;areaNews=11</guid>
+<pubDate>Tue, 27 Oct 2026 16:49:54 +0100</pubDate>
+<description>Lungo la Provinciale 70</description>
+</item>
 <item>
 <title>Triennale lavori pubblici 2027 - 2029, adottato lo schema</title>
 <link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24156&amp;COL0003=1&amp;COL0003=2</link>
@@ -418,13 +425,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3922&amp;areaNews=11</guid>
 <pubDate>Tue, 30 Jun 2026 15:28:30 +0100</pubDate>
 <description>Le deviazioni</description>
-</item>
-<item>
-<title>Variante al PTCP per definizione ambiti territoriali idonei alla localizzazione di insediamenti logistici di rilevanza sovracomunale</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3921&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3921&amp;areaNews=11</guid>
-<pubDate>Tue, 30 Jun 2026 11:33:00 +0100</pubDate>
-<description>Consultabile il rapporto preliminare: osservazioni entro il 30 luglio 2026</description>
 </item>
 </channel>
 </rss>
