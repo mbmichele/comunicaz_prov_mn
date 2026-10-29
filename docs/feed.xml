@@ -5,13 +5,20 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 29 Oct 2026 14:01:27 +0100</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 16:01:26 +0100</lastBuildDate>
 <item>
 <title>Un pallido punto blu - Biennale Light Art Mantova 2026</title>
 <link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1569&amp;GTEMPLATE=events.jsp</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1569&amp;GTEMPLATE=events.jsp</guid>
 <pubDate>Sat, 31 Oct 2026 00:00:00 +0100</pubDate>
 <description>Fino al 31.01.2027. Mostra Casa del Mantegna</description>
+</item>
+<item>
+<title>Un pallido punto blu - Biennale Light Art Mantova 2026</title>
+<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3958&amp;areaNews=11</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3958&amp;areaNews=11</guid>
+<pubDate>Thu, 29 Oct 2026 14:47:54 +0100</pubDate>
+<description>A Casa del Mantegna dal 31 ottobre 2026 al 31 gennaio 2027</description>
 </item>
 <item>
 <title>Ultimi giorni per iscriversi a InForma il futuro</title>
@@ -418,13 +425,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3925&amp;areaNews=11</guid>
 <pubDate>Thu, 16 Jul 2026 13:44:30 +0100</pubDate>
 <description>Dalle ore 20 di oggi ale ore 6 di domani</description>
-</item>
-<item>
-<title>Offerte di lavoro dai Centri per l'Impiego della Provincia di Mantova</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3924&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3924&amp;areaNews=11</guid>
-<pubDate>Thu, 02 Jul 2026 13:03:11 +0100</pubDate>
-<description>Aggiornamenti di martedì 13 ottobre 2026</description>
 </item>
 </channel>
 </rss>
