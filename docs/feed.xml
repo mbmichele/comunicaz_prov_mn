@@ -5,7 +5,14 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 29 Oct 2026 10:29:38 +0100</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 12:01:25 +0100</lastBuildDate>
+<item>
+<title>Un pallido punto blu - Biennale Light Art Mantova 2026</title>
+<link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1569&amp;GTEMPLATE=events.jsp</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1569&amp;GTEMPLATE=events.jsp</guid>
+<pubDate>Sat, 31 Oct 2026 00:00:00 +0100</pubDate>
+<description>Fino al 31.01.2027. Mostra Casa del Mantegna</description>
+</item>
 <item>
 <title>Ultimi giorni per iscriversi a InForma il futuro</title>
 <link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24157&amp;COL0003=1&amp;COL0003=2</link>
@@ -14,7 +21,7 @@
 <description>Ancora posti per sabato 31 ottobre 2026</description>
 </item>
 <item>
-<title>Stop al transito sul canale Portazzolo tra San Rocco di Quiistello e Schivenoglia</title>
+<title>Stop al transito sul canale Portazzolo tra San Rocco di Quistello e Schivenoglia</title>
 <link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3957&amp;areaNews=11</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3957&amp;areaNews=11</guid>
 <pubDate>Tue, 27 Oct 2026 16:49:54 +0100</pubDate>
@@ -418,13 +425,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3924&amp;areaNews=11</guid>
 <pubDate>Thu, 02 Jul 2026 13:03:11 +0100</pubDate>
 <description>Aggiornamenti di martedì 13 ottobre 2026</description>
-</item>
-<item>
-<title>Cedimento stradale, interrotta l'Alto Polesana tra Mantova e Roncoferraro</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3922&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3922&amp;areaNews=11</guid>
-<pubDate>Tue, 30 Jun 2026 15:28:30 +0100</pubDate>
-<description>Le deviazioni</description>
 </item>
 </channel>
 </rss>
