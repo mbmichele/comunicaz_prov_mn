@@ -5,7 +5,14 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 13 Nov 2026 10:01:21 +0100</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 12:01:20 +0100</lastBuildDate>
+<item>
+<title>FESTIVAL DEL LIBRO E DELLA CULTURA SPORTIVA</title>
+<link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1572&amp;GTEMPLATE=events.jsp</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1572&amp;GTEMPLATE=events.jsp</guid>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0100</pubDate>
+<description>Fino al 29.11.2026. Rassegna A Mantova e provincia</description>
+</item>
 <item>
 <title>Festival del libro e della cultura sportiva dal 24 al 29 novembre 2026</title>
 <link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24200&amp;COL0003=1&amp;COL0003=2&amp;COL0003=3</link>
@@ -418,13 +425,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3922&amp;areaNews=11</guid>
 <pubDate>Tue, 30 Jun 2026 15:28:30 +0100</pubDate>
 <description>Le deviazioni</description>
-</item>
-<item>
-<title>Variante al PTCP per definizione ambiti territoriali idonei alla localizzazione di insediamenti logistici di rilevanza sovracomunale</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3921&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3921&amp;areaNews=11</guid>
-<pubDate>Tue, 30 Jun 2026 11:33:00 +0100</pubDate>
-<description>Consultabile il rapporto preliminare: osservazioni entro il 30 luglio 2026</description>
 </item>
 </channel>
 </rss>
