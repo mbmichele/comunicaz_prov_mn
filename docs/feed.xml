@@ -5,13 +5,34 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Mon, 16 Nov 2026 16:01:08 +0100</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 18:01:33 +0100</lastBuildDate>
+<item>
+<title>Vento tra i capelli – Voci di libertŕ dall’Afghanistan</title>
+<link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1573&amp;GTEMPLATE=events.jsp</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1573&amp;GTEMPLATE=events.jsp</guid>
+<pubDate>Mon, 30 Nov 2026 00:00:00 +0100</pubDate>
+<description>Convegno Casa del Mantegna Ore 18</description>
+</item>
 <item>
 <title>FESTIVAL DEL LIBRO E DELLA CULTURA SPORTIVA</title>
 <link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1572&amp;GTEMPLATE=events.jsp</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1572&amp;GTEMPLATE=events.jsp</guid>
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0100</pubDate>
 <description>Fino al 29.11.2026. Rassegna A Mantova e provincia</description>
+</item>
+<item>
+<title>Il mondo nuovo: crisi, conflitti e mutazioni</title>
+<link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1574&amp;GTEMPLATE=events.jsp</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1574&amp;GTEMPLATE=events.jsp</guid>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0100</pubDate>
+<description>Fino al 04.02.2027. Rassegna</description>
+</item>
+<item>
+<title>Torna la rassegna il mondo nuovo: crisi, conflitti e mutazioni</title>
+<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24208&amp;COL0003=1&amp;COL0003=2&amp;COL0003=3</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24208&amp;COL0003=1&amp;COL0003=2&amp;COL0003=3</guid>
+<pubDate>Mon, 16 Nov 2026 17:29:00 +0100</pubDate>
+<description>Primo appuntamento giovedě 19 novembre</description>
 </item>
 <item>
 <title>Giornata internazionale per l'eliminazione della violenza contro le donne edizione 2026</title>
@@ -238,13 +259,6 @@
 <description>Da venerdì 23 a domenica 25 ottobre 2026</description>
 </item>
 <item>
-<title>AGGIORNAMENTO METODO TARIFFARIO IDRICO PER IL GESTORE AqA</title>
-<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24142&amp;COL0003=1&amp;COL0003=2</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24142&amp;COL0003=1&amp;COL0003=2</guid>
-<pubDate>Tue, 13 Oct 2026 20:57:00 +0200</pubDate>
-<description></description>
-</item>
-<item>
 <title>Martedì 13 ottobre "simulazione" del collasso di una grande diga</title>
 <link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3949&amp;areaNews=11</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3949&amp;areaNews=11</guid>
@@ -411,20 +425,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3926&amp;areaNews=11</guid>
 <pubDate>Thu, 16 Jul 2026 15:47:23 +0100</pubDate>
 <description>Dalle ore 20 di venerdì 17 alle ore 6 di sabato 18 luglio 2026</description>
-</item>
-<item>
-<title>Nuove asfaltature, interrotto tratto dell'Alto Polesana a Ostiglia</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3925&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3925&amp;areaNews=11</guid>
-<pubDate>Thu, 16 Jul 2026 13:44:30 +0100</pubDate>
-<description>Dalle ore 20 di oggi ale ore 6 di domani</description>
-</item>
-<item>
-<title>Offerte di lavoro dai Centri per l'Impiego della Provincia di Mantova</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3924&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3924&amp;areaNews=11</guid>
-<pubDate>Thu, 02 Jul 2026 13:03:11 +0100</pubDate>
-<description>Aggiornamenti di martedì 13 ottobre 2026</description>
 </item>
 </channel>
 </rss>
