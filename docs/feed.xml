@@ -5,13 +5,34 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Tue, 24 Nov 2026 12:01:30 +0100</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 14:01:33 +0100</lastBuildDate>
 <item>
-<title>Vento tra i capelli – Voci di libertą dall’Afghanistan</title>
+<title>Vento tra i capelli – Voci di libertŕ dall’Afghanistan</title>
 <link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1573&amp;GTEMPLATE=events.jsp</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1573&amp;GTEMPLATE=events.jsp</guid>
 <pubDate>Mon, 30 Nov 2026 00:00:00 +0100</pubDate>
 <description>Convegno Casa del Mantegna Ore 18</description>
+</item>
+<item>
+<title>Festival del libro e della cultura sportiva, gli appuntamenti di mercoledě 25 novembre 2026</title>
+<link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1576&amp;GTEMPLATE=events.jsp</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1576&amp;GTEMPLATE=events.jsp</guid>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0100</pubDate>
+<description>Rassegna</description>
+</item>
+<item>
+<title>Bando River 2, contributi per 300 mila euro a quattro comuni</title>
+<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24218&amp;COL0003=1&amp;COL0003=2</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24218&amp;COL0003=1&amp;COL0003=2</guid>
+<pubDate>Tue, 24 Nov 2026 13:58:00 +0100</pubDate>
+<description>Per il recupero del reticolo idrico minore</description>
+</item>
+<item>
+<title>Festival del libro e della cultura sportiva, gli appuntamenti di mercoledě 25 novembre 2026</title>
+<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24217&amp;COL0003=1&amp;COL0003=2</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24217&amp;COL0003=1&amp;COL0003=2</guid>
+<pubDate>Tue, 24 Nov 2026 13:37:00 +0100</pubDate>
+<description></description>
 </item>
 <item>
 <title>FESTIVAL DEL LIBRO E DELLA CULTURA SPORTIVA</title>
@@ -203,25 +224,11 @@
 <description>A Casa del Mantegna dal 31 ottobre 2026 al 31 gennaio 2027</description>
 </item>
 <item>
-<title>Ultimi giorni per iscriversi a InForma il futuro</title>
-<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24157&amp;COL0003=1&amp;COL0003=2</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24157&amp;COL0003=1&amp;COL0003=2</guid>
-<pubDate>Wed, 28 Oct 2026 11:49:00 +0100</pubDate>
-<description>Ancora posti per sabato 31 ottobre 2026</description>
-</item>
-<item>
 <title>Stop al transito sul canale Portazzolo tra San Rocco di Quistello e Schivenoglia</title>
 <link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3957&amp;areaNews=11</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3957&amp;areaNews=11</guid>
 <pubDate>Tue, 27 Oct 2026 16:49:54 +0100</pubDate>
 <description>Lungo la Provinciale 70</description>
-</item>
-<item>
-<title>Triennale lavori pubblici 2027 - 2029, adottato lo schema</title>
-<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24156&amp;COL0003=1&amp;COL0003=2</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24156&amp;COL0003=1&amp;COL0003=2</guid>
-<pubDate>Mon, 26 Oct 2026 13:21:00 +0100</pubDate>
-<description>Nel programma sono previsti interventi nel 2027 per quasi 40 milioni di euro</description>
 </item>
 <item>
 <title>Adozione schema Programma Triennale dei Lavori Pubblici 2027  2029 e approvazione prospetto interventi prioritari per inserimento nei prossimi programmi triennali dei lavori pubblici</title>
@@ -418,13 +425,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3928&amp;areaNews=11</guid>
 <pubDate>Tue, 21 Jul 2026 12:23:31 +0100</pubDate>
 <description>Presentazione proposte entro il 30 settembre 2026</description>
-</item>
-<item>
-<title>Nuovo cedimento dell'Alto Polesana tra Mantova e Roncoferraro</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3927&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3927&amp;areaNews=11</guid>
-<pubDate>Tue, 21 Jul 2026 09:53:56 +0100</pubDate>
-<description>Le deviazioni per l'interruzione della strada</description>
 </item>
 </channel>
 </rss>
