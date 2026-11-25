@@ -5,13 +5,20 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Wed, 25 Nov 2026 12:01:38 +0100</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 14:01:23 +0100</lastBuildDate>
 <item>
 <title>Vento tra i capelli – Voci di libertŕ dall’Afghanistan</title>
 <link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1573&amp;GTEMPLATE=events.jsp</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1573&amp;GTEMPLATE=events.jsp</guid>
 <pubDate>Mon, 30 Nov 2026 00:00:00 +0100</pubDate>
 <description>Convegno Casa del Mantegna Ore 18</description>
+</item>
+<item>
+<title>Festival del libro e della cultura sportiva, gli appuntamenti di giovedě 26 novembre</title>
+<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24220&amp;COL0003=1&amp;COL0003=2&amp;COL0003=3</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24220&amp;COL0003=1&amp;COL0003=2&amp;COL0003=3</guid>
+<pubDate>Wed, 25 Nov 2026 13:07:00 +0100</pubDate>
+<description></description>
 </item>
 <item>
 <title>Cultura nei piccoli comuni, aperta la seconda edizione dellavviso pubblico</title>
@@ -215,13 +222,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1569&amp;GTEMPLATE=events.jsp</guid>
 <pubDate>Sat, 31 Oct 2026 00:00:00 +0100</pubDate>
 <description>Fino al 31.01.2027. Mostra Casa del Mantegna</description>
-</item>
-<item>
-<title>Inserimento lavorativo di persone con disabilitŕ, oggi a Mantova il primo Job Connect</title>
-<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24162&amp;COL0003=1&amp;COL0003=2</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24162&amp;COL0003=1&amp;COL0003=2</guid>
-<pubDate>Thu, 29 Oct 2026 16:23:00 +0100</pubDate>
-<description>Selezionati 23 candidati: 5 le aziende che hanno aderito</description>
 </item>
 <item>
 <title>Un pallido punto blu - Biennale Light Art Mantova 2026</title>
