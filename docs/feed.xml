@@ -5,13 +5,27 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 26 Nov 2026 14:01:21 +0100</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 16:01:26 +0100</lastBuildDate>
+<item>
+<title>Il vento tra i capelli - Voci di libertŕ dall'Afganistan</title>
+<link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1577&amp;GTEMPLATE=events.jsp</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1577&amp;GTEMPLATE=events.jsp</guid>
+<pubDate>Mon, 30 Nov 2026 00:00:00 +0100</pubDate>
+<description>Convegno Casa del Mantegna Ore 18</description>
+</item>
 <item>
 <title>Vento tra i capelli – Voci di libertŕ dall’Afghanistan</title>
 <link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1573&amp;GTEMPLATE=events.jsp</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1573&amp;GTEMPLATE=events.jsp</guid>
 <pubDate>Mon, 30 Nov 2026 00:00:00 +0100</pubDate>
 <description>Convegno Casa del Mantegna Ore 18</description>
+</item>
+<item>
+<title>Il vento tra i capelli - Voci di libertŕ dall'Afganistan</title>
+<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24223&amp;COL0003=1&amp;COL0003=2&amp;COL0003=3</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24223&amp;COL0003=1&amp;COL0003=2&amp;COL0003=3</guid>
+<pubDate>Thu, 26 Nov 2026 15:36:00 +0100</pubDate>
+<description>Appuntamento lunedě 30 novembre alle ore 18 alla Casa del Mantegna</description>
 </item>
 <item>
 <title>Festival del libro e della cultura sportiva, gli appuntamenti di venerdě 27 novembre</title>
@@ -194,13 +208,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24191&amp;COL0003=1&amp;COL0003=3</guid>
 <pubDate>Mon, 09 Nov 2026 12:45:00 +0100</pubDate>
 <description>Oggi la prersentazione a Casa del Mantegna</description>
-</item>
-<item>
-<title>Elezioni per il rinnovo del Consiglio Provinciale, si voterŕ sabato 19 dicembre 2026</title>
-<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24190&amp;COL0003=1&amp;COL0003=2</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24190&amp;COL0003=1&amp;COL0003=2</guid>
-<pubDate>Mon, 09 Nov 2026 10:02:00 +0100</pubDate>
-<description>Dalle 8 alle 20: seggi a Mantova, Guidizzolo, Sabbioneta e Poggio Rusco</description>
 </item>
 <item>
 <title>ELEZIONI CONSIGLIO PROVINCIALE 2026</title>
@@ -418,13 +425,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3931&amp;areaNews=11</guid>
 <pubDate>Wed, 29 Jul 2026 14:57:06 +0100</pubDate>
 <description>Dal 30 luglio 2026  per il rifacimento della pavimentazione stradale</description>
-</item>
-<item>
-<title>Consiglio Provinciale venerdì 31 luglio 2026</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3930&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3930&amp;areaNews=11</guid>
-<pubDate>Tue, 28 Jul 2026 09:46:06 +0100</pubDate>
-<description>Ore 20.45, Aula del Consiglio di Palazzo di Bagno</description>
 </item>
 </channel>
 </rss>
