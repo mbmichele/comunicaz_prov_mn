@@ -5,7 +5,7 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 26 Nov 2026 16:01:26 +0100</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 18:01:27 +0100</lastBuildDate>
 <item>
 <title>Il vento tra i capelli - Voci di libertŕ dall'Afganistan</title>
 <link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1577&amp;GTEMPLATE=events.jsp</link>
@@ -19,6 +19,13 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1573&amp;GTEMPLATE=events.jsp</guid>
 <pubDate>Mon, 30 Nov 2026 00:00:00 +0100</pubDate>
 <description>Convegno Casa del Mantegna Ore 18</description>
+</item>
+<item>
+<title>Consiglio provinciale lunedì 30 novembre 2026</title>
+<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3964&amp;areaNews=11</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3964&amp;areaNews=11</guid>
+<pubDate>Thu, 26 Nov 2026 16:55:30 +0100</pubDate>
+<description>Ore 17:30, Palazzo di Bagno</description>
 </item>
 <item>
 <title>Il vento tra i capelli - Voci di libertŕ dall'Afganistan</title>
@@ -418,13 +425,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3932&amp;areaNews=11</guid>
 <pubDate>Wed, 05 Aug 2026 15:30:27 +0100</pubDate>
 <description>Dal 14 al 17 agosto 2026</description>
-</item>
-<item>
-<title>Provinciale 39, interrotto tratto a Magnacavallo</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3931&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3931&amp;areaNews=11</guid>
-<pubDate>Wed, 29 Jul 2026 14:57:06 +0100</pubDate>
-<description>Dal 30 luglio 2026  per il rifacimento della pavimentazione stradale</description>
 </item>
 </channel>
 </rss>
