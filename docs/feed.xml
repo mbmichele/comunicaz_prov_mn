@@ -5,13 +5,20 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Thu, 26 Nov 2026 10:01:23 +0100</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 12:01:34 +0100</lastBuildDate>
 <item>
 <title>Vento tra i capelli – Voci di libertŕ dall’Afghanistan</title>
 <link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1573&amp;GTEMPLATE=events.jsp</link>
 <guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1573&amp;GTEMPLATE=events.jsp</guid>
 <pubDate>Mon, 30 Nov 2026 00:00:00 +0100</pubDate>
 <description>Convegno Casa del Mantegna Ore 18</description>
+</item>
+<item>
+<title>Lavori al sovrappasso, senso unico lungo la Romana</title>
+<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3963&amp;areaNews=11</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3963&amp;areaNews=11</guid>
+<pubDate>Thu, 26 Nov 2026 11:16:51 +0100</pubDate>
+<description>Interrotta dalle ore 22 di venerdì 27 alle ore 20 di domenica 30 novembre la corsia da Cerese a Bagnolo</description>
 </item>
 <item>
 <title>Festival del libro e della cultura sportiva, gli appuntamenti di giovedě 26 novembre</title>
@@ -418,13 +425,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3930&amp;areaNews=11</guid>
 <pubDate>Tue, 28 Jul 2026 09:46:06 +0100</pubDate>
 <description>Ore 20.45, Aula del Consiglio di Palazzo di Bagno</description>
-</item>
-<item>
-<title>Lavori del Consorzio di Bonifica per ripresa di una frana: interrotta la Sp 80 a Roncoferraro</title>
-<link>https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3929&amp;areaNews=11</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/news_detail.jsp?GTemplate=default.jsp&amp;ID_NEWS=3929&amp;areaNews=11</guid>
-<pubDate>Tue, 21 Jul 2026 16:07:30 +0100</pubDate>
-<description>Dal 22 luglio 2026, dalle 6 alle 19</description>
 </item>
 </channel>
 </rss>
