@@ -5,7 +5,7 @@
 <link>https://www.provincia.mantova.it/</link>
 <description>Feed RSS non ufficiale che aggrega comunicati stampa, notizie ed eventi pubblicati dalla Provincia di Mantova. Non è un servizio ufficiale dell'ente.</description>
 <language>it-IT</language>
-<lastBuildDate>Fri, 27 Nov 2026 12:01:27 +0100</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 14:01:27 +0100</lastBuildDate>
 <item>
 <title>Il vento tra i capelli - Voci di libertŕ dall'Afganistan</title>
 <link>https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1577&amp;GTEMPLATE=events.jsp</link>
@@ -19,6 +19,13 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/events_detail.jsp?IDAREA=35&amp;ID_EVENT=1573&amp;GTEMPLATE=events.jsp</guid>
 <pubDate>Mon, 30 Nov 2026 00:00:00 +0100</pubDate>
 <description>Convegno Casa del Mantegna Ore 18</description>
+</item>
+<item>
+<title>Un logo per la Commissione provinciale Pari Opportunitŕ</title>
+<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24226&amp;COL0003=1&amp;COL0003=2</link>
+<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24226&amp;COL0003=1&amp;COL0003=2</guid>
+<pubDate>Fri, 27 Nov 2026 12:43:00 +0100</pubDate>
+<description>Premiato l’istituto Greggiati di Ostiglia per la proposta di Andrea Grossi, ora tutti i bozzetti sono in mostra alla Cervetta</description>
 </item>
 <item>
 <title>La pace introvabile: come si conclude una guerra</title>
@@ -208,13 +215,6 @@
 <guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24195&amp;COL0003=1&amp;COL0003=2</guid>
 <pubDate>Wed, 11 Nov 2026 13:37:00 +0100</pubDate>
 <description></description>
-</item>
-<item>
-<title>Patti territoriali per la sostenibilitŕ dei Pratri stabili, presentati tre progetti</title>
-<link>https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24192&amp;COL0003=1&amp;COL0003=2&amp;COL0003=3</link>
-<guid isPermaLink="true">https://www.provincia.mantova.it/cs_context.jsp?ID_LINK=41&amp;area=37&amp;id_context=24192&amp;COL0003=1&amp;COL0003=2&amp;COL0003=3</guid>
-<pubDate>Mon, 09 Nov 2026 13:00:00 +0100</pubDate>
-<description>Un portale web dei Prati stabili per promuovere prodotti e territorio, un sistema innovativo per il risparmio idrico e un archivio geografico centrale</description>
 </item>
 <item>
 <title>ELEZIONI CONSIGLIO PROVINCIALE 2026</title>
